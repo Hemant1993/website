@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<link rel="stylesheet" href="main.css">
+		<link href="https://fonts.googleapis.com/css?family=Comfortaa|PT+Sans+Caption" rel="stylesheet">
+		<title>Hemant Arora</title>
+	</head>
+	<body id="top">
+		<header>
+			<div class="navibar">
+				<a id="special" class="navcomm1" href="index.html"><strong>UBER</strong></a>
+				<div class="dropdown">
+					<a id="nav1" class="navcomm1" href="#">Ride</a>
+					<div class="drop-content">
+						<a class="navcomm1" href="#">Overview</a>
+						<a class="navcomm1" href="#">How it Works</a>
+						<a class="navcomm1" href="#">Fare Estimator</a>
+						<a class="navcomm1" href="#">Safety</a>
+						<a class="navcomm1" href="#">Cities</a>
+						<a class="navcomm1" href="#">Airports</a>
+					</div>
+				</div>
+				<div class="dropdown">
+					<a id="nav1" class="navcomm1" href="#">Drive</a>
+					<div class="drop-content">
+						<a class="navcomm1" href="#">Overview</a>
+						<a class="navcomm1" href="#">Requirements</a>
+						<a class="navcomm1" href="#">Drive App</a>
+						<a class="navcomm1" href="#">Vehicle Solutions</a>
+						<a class="navcomm1" href="#">Safety</a>
+						<a class="navcomm1" href="#">Rewards</a>
+					</div>
+				</div>
+				<img id="nav2" class="navcomm2" src="menu_bar.png" alt="menu bar">
+				<button class="button" class="navcomm2">BECOME A DRIVER</button>
+				<img id="nav2" class="navcomm2" src="location.png" alt="location search">
+				<a id="nav3" class="navcomm2" href="#">SIGN IN</a>
+				<a id="nav3" class="navcomm2" href="#">HELP</a>
+			</div>
+		</header>
+	</body>
+</html>
